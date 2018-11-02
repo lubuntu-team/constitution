@@ -39,7 +39,7 @@ The Lubuntu Council is a board consisting of five individuals. The Council serve
   - Delegate administration of community groups to individuals which report directly to the Lubuntu Council. These delegated administrators should be the clear leaders of these groups already, to keep the spirit of Democratic Meritocracy.
   - Grant Lubuntu Membership to individuals within the Lubuntu project who have made significant and sustained contributions.
 
-Quorum of the Lubuntu Council is defined as half of the members plus one. No decision can be made on behalf of the Lubuntu Council without a quorum.
+Quorum of the Lubuntu Council is defined as a majority of members casting a vote on a decision. No decision can be made on behalf of the Lubuntu Council without a quorum.
 
 Although this is exercised with great care, the Lubuntu Council has the authority to remove people from the Lubuntu project, for clear violations of this constitution or the Ubuntu Code of Conduct that occur within the community. It is the duty of the Lubuntu Council to publicly announce removal of team members from the project, and any removal must be done only after a unanimous vote has passed.
 
