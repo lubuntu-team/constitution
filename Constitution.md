@@ -83,5 +83,6 @@ The Lubuntu Documentation Manager is the individual responsible for all of Lubun
 
 The Lubuntu Design Manager is the individual responsible for design and user experience decisions in the Product. They aim to take feedback from the community and other team members regarding how to improve the design of the Product and what the best experience for the end user is.
 
+### Lubuntu Localization Manager
 
-TODO: Separate out the Lubuntu Spanish Group.
+The Lubuntu Localization Manager is the individual responsible for ensuring Lubuntu is translated into as many languages as possible, and that the translations are high-quality as well as accurate. This individual may wish to establish interest groups for specific languages if there a significant amount of people who speak that language and are interested in Lubuntu. At this time, the only localization group is the Lubuntu Spanish group.
