@@ -67,6 +67,8 @@ The Lubuntu Team Lead is a Lubuntu Council-appointed individual which serves as 
 
 The following are the current administrative positions delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
 
+It is important that none of the administrative positions have access to tools or documentation that the others do not have. To reduce bus factor in the case that an individual has to step away suddenly, the Lubuntu Council must have the same access that the administrators to, in case they need to be replaced suddenly.
+
 ### Lubuntu Release Manager
 
 The Lubuntu Release Manager is the individual responsible for all release management for the Lubuntu Product. They make the final decision as to what packages are in the Product (although this is subject to platform expectations set by the Ubuntu Technical Board), the release goals for the Product, and whether or not the Product is in a releaseable state. They serve as the point of contact for Product releases, and have the ability to establish release-related rules for Product-specific packages.
