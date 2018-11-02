@@ -63,8 +63,6 @@ The Ubuntu Community Council is the governing board of the Ubuntu project, and a
 
 The Lubuntu Team Lead is a Lubuntu Council-appointed individual which serves as a representative for the Lubuntu Council when executive action is required and the Lubuntu Council cannot reach a quorum. If the Team Lead takes any action, they must inform the Lubuntu Council within seven days, and the Council has the right to overrule any decision made by the Team Lead. Intentional failure to report any decision to the Council within that time will result in re-evaluation by the Council of the Team Lead's ability to serve.
 
-The current Lubuntu Team Lead is Simon Quigley.
-
 ## Delegated Positions
 
 The following are the current administrators who hold titles delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
