@@ -86,3 +86,7 @@ The Lubuntu Design Manager is the individual responsible for design and user exp
 ### Lubuntu Localization Manager
 
 The Lubuntu Localization Manager is the individual responsible for ensuring Lubuntu is translated into as many languages as possible, and that the translations are high-quality as well as accurate. This individual may wish to establish interest groups for specific languages if there a significant amount of people who speak that language and are interested in Lubuntu. At this time, the only localization group is the Lubuntu Spanish group.
+
+### Social Media Managers
+
+There is no one person who manages the social media for Lubuntu, but interested parties who can prove prior experience with the platform can be added as administrators at the Lubuntu Council's discretion.
