@@ -92,3 +92,11 @@ The Lubuntu Localization Manager is the individual responsible for ensuring Lubu
 ### Social Media Managers
 
 There is no one person who manages the social media for Lubuntu, but interested parties who can prove prior experience with the platform can be added as administrators at the Lubuntu Council's discretion.
+
+# Modifications to this document
+
+Modifications to this document must only be made following unanimous consensus among the Lubuntu Council. Before large changes are merged, feedback from active Lubuntu Members and the Ubuntu Community Council as well as the Lubuntu Council should be incorporated.
+
+The canonical location of this document is available on [our hosted Phabricator instance in Markdown format](https://phab.lubuntu.me/source/constitution/browse/master/Constitution.md). For accessibility purposes, a copy is also available on [GitHub](https://github.com/lubuntu-team/constitution/blob/master/Constitution.md), but this should be considered "best-effort" and the Phabricator copy should be used.
+
+This document is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/). You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Lubuntu project.
