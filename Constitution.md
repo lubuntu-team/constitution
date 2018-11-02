@@ -65,7 +65,7 @@ The Lubuntu Team Lead is a Lubuntu Council-appointed individual which serves as 
 
 ## Delegated Positions
 
-The following are the current administrators who hold titles delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
+The following are the current administrative positions delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
 
 ### Lubuntu Release Manager
 
