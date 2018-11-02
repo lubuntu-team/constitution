@@ -73,7 +73,7 @@ The Lubuntu Release Manager is the individual responsible for all release manage
 
 ### Lubuntu Quality Assurance Manager
 
-The Lubuntu Quality Assurance Manager, or the Lubuntu QA Manager, is the individual responsible for testing the Lubuntu Product. They conduct exploratory testing, establish quality assurance and bug triage policies for the Product, and assist the Release Manager in finding testers for the Product prior to a release. They serve as the point of contact for bugs in Lubuntu, and work with the Lubuntu Release Manager to determine if the Product is in a releaseable state.
+The Lubuntu Quality Assurance Manager, or the Lubuntu QA Manager, is the individual responsible for testing the Product. They conduct exploratory testing, establish quality assurance and bug triage policies for the Product, and assist the Release Manager in finding testers for the Product prior to a release. They serve as the point of contact for bugs in Lubuntu, and work with the Lubuntu Release Manager to determine if the Product is in a releaseable state.
 
 ### Lubuntu Documentation Manager
 
