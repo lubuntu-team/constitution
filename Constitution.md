@@ -28,7 +28,7 @@ Discussion on these forums should aim to be constructive, collaborative, and inc
 
 # Governance
 
-Lubuntu is a Democratic Meritocracy. The individuals who contribute the most to the project as a whole, regardless of who they identify as culturally, should be given the opportunity to make the largest difference through additional responsibilities. Inversely, people who cease their contributions to the project need to gracefully step down if they can no longer handle their responsibilities as a contributor.
+Lubuntu is a democratic meritocracy. The individuals who contribute the most to the project as a whole, regardless of who they identify as culturally, should be given the opportunity to make the largest difference through additional responsibilities. Inversely, people who cease their contributions to the project need to gracefully step down if they can no longer handle their responsibilities as a contributor.
 
 ## Lubuntu Council
 
@@ -36,7 +36,7 @@ The Lubuntu Council is a board consisting of five individuals. The Council serve
 
   - Mediate disputes within the community (as defined above) that cannot be resolved by themselves, or cannot be resolved peacefully.
   - Appoint team members to positions temporarily if a position being held becomes vacant, and until a new leader can be chosen.
-  - Delegate administration of community groups to individuals which report directly to the Lubuntu Council. These delegated administrators should be the clear leaders of these groups already, to keep the spirit of Democratic Meritocracy.
+  - Delegate administration of community groups to individuals which report directly to the Lubuntu Council. These delegated administrators should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
   - Grant Lubuntu Membership to individuals within the Lubuntu project who have made significant and sustained contributions.
 
 Quorum of the Lubuntu Council is defined as a majority of members casting a vote on a decision. No decision can be made on behalf of the Lubuntu Council without a quorum.
@@ -67,7 +67,7 @@ The current Lubuntu Team Lead is Simon Quigley.
 
 ## Delegated Positions
 
-The following are the current administrators who hold titles delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of Democratic Meritocracy.
+The following are the current administrators who hold titles delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
 
 ### Lubuntu Release Manager
 
