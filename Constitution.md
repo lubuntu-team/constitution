@@ -73,25 +73,17 @@ The following are the current administrators who hold titles delegated by the Lu
 
 The Lubuntu Release Manager is the individual responsible for all release management for the Lubuntu Product. They make the final decision as to what packages are in the Product (although this is subject to platform expectations set by the Ubuntu Technical Board), the release goals for the Product, and whether or not the Product is in a releaseable state. They serve as the point of contact for Product releases, and have the ability to establish release-related rules for Product-specific packages.
 
-The current Lubuntu Release Manager is Simon Quigley, and the assistant is Walter Lapchynski.
-
 ### Lubuntu Quality Assurance Manager
 
 The Lubuntu Quality Assurance Manager, or the Lubuntu QA Manager, is the individual responsible for testing the Lubuntu Product. They conduct exploratory testing, establish quality assurance and bug triage policies for the Product, and assist the Release Manager in finding testers for the Product prior to a release. They serve as the point of contact for bugs in Lubuntu, and work with the Lubuntu Release Manager to determine if the Product is in a releaseable state.
-
-The current Lubuntu Quality Assurance Manager is Walter Lapchynski.
 
 ### Lubuntu Documentation Manager
 
 The Lubuntu Documentation Manager is the individual responsible for all of Lubuntu's documentation. They make the final decisions for all of the content which goes into the Lubuntu Manual and any other documentation which is officially released on behalf of the project. They aim to gather relevant information from the community and transform it into something that is easy to read.
 
-The current Lubuntu Documentation Manager is Lyn Perrine.
-
 ### Lubuntu Design Manager
 
 The Lubuntu Design Manager is the individual responsible for design and user experience decisions in the Product. They aim to take feedback from the community and other team members regarding how to improve the design of the Product and what the best experience for the end user is.
-
-The current Lubuntu Design Manager is Wendy Hill.
 
 
 TODO: Separate out the Lubuntu Spanish Group.
