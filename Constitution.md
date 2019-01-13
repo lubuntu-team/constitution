@@ -6,72 +6,62 @@ This document is the Lubuntu Constitution, which aims to define Lubuntu as a pro
 
 Lubuntu refers to the free software distribution project (https://lubuntu.me). This is defined as the Product in this document.
 
+The term Council refers to the Lubuntu Council as defined in this document. Likewise, the term Members refers to the Lubuntu Members as defined in this document.
+
 Ubuntu refers to the free software distribution project (https://www.ubuntu.com/community/governance).
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
 # The Community
 
-The Lubuntu community is defined as the people, interactions, and accounts on the following platforms, as linked:
+The Lubuntu community is defined as the people, interactions, and accounts using the Lubuntu name that are administrated by the official Lubuntu team.
 
- - [#lubuntu](irc://irc.freenode.net/lubuntu), [#lubuntu-devel](irc://irc.freenode.net/lubuntu-devel), and [#lubuntu-offtopic](irc://irc.freenode.net/lubuntu) on the freenode IRC network.
- - The [User support](https://lists.ubuntu.com/mailman/listinfo/lubuntu-users) and [Development](https://lists.ubuntu.com/mailman/listinfo/lubuntu-devel) mailing lists on [lists.ubuntu.com](https://lists.ubuntu.com/).
- - The [Support](https://telegram.lubuntu.me/support), [Development](https://telegram.lubuntu.me/development), [Offtopic](https://telegram.lubuntu.me/offtopic), and [Spanish](https://telegram.lubuntu.me/espa%C3%B1ol) channels on Telegram (as well as any other language channels added thereafter).
- - [Lubuntu's Matrix channel](https://chat.disroot.org/#/room/#lubuntu:disroot.org).
- - Our self-hosted [Phabricator instance](https://phab.lubuntu.me/).
- - Lubuntu's [Twitter account](https://twitter.com/lubuntuofficial).
- - Lubuntu's [Mastodon account](https://mastodon.technology/@lubuntu).
- - [r/Lubuntu](https://www.reddit.com/r/Lubuntu) on Reddit.
- - Posts and Disqus comments on [our official website](https://lubuntu.me/).
-
-Discussion on these forums should aim to be constructive, collaborative, and inclusive. If there are disagreements or misunderstandings, the parties involved should aim to resolve them in a constructive way; if this is not possible, it should be raised to the appropriate administrators, and as ultima ratio, the Lubuntu Council.
+Discussion on these forums should aim to be constructive, collaborative, and inclusive. If there are disagreements or misunderstandings, the parties involved should aim to resolve them in a constructive way; if this is not possible, it should be raised to the appropriate administrators, and as a last resort, the Council.
 
 # Governance
 
-Lubuntu is a democratic meritocracy. The individuals who contribute the most to the project as a whole, regardless of who they identify as culturally, should be given the opportunity to make the largest difference through additional responsibilities. Inversely, people who can no longer fulfill their responsibilities as a contributor should consider training and empowering other contributors to take their place; if they cannot do this, they should gracefully step down. The Lubuntu Council reserves the right to relieve contributors of their duties should the contributor's inability to fulfill their responsibilites actively hinders the growth of the project.
+Lubuntu is a democratic meritocracy. The individuals who contribute the most to the project as a whole, regardless of who they identify as culturally, should be given the opportunity to make the largest difference through additional responsibilities. Inversely, people who can no longer fulfill their responsibilities as a contributor should consider training and empowering other contributors to take their place; if they cannot do this, they should gracefully step down. The Council reserves the right to relieve contributors of their duties should the contributor's inability to fulfill their responsibilites actively hinders the growth of the project.
 
 ## Lubuntu Council
 
-The Lubuntu Council is a board consisting of five individuals. The Council serves as the governing body of the Lubuntu project, and has the ability to do the following:
+The Council is a board consisting of five individuals. The Council serves as the governing body of the Lubuntu project, and has the ability to do the following:
 
   - Mediate disputes within the community (as defined above) that cannot be resolved by themselves, or cannot be resolved peacefully.
   - Appoint team members to positions temporarily if a position being held becomes vacant, and until a new leader can be chosen.
-  - Delegate administration of community groups to individuals which report directly to the Lubuntu Council. These delegated administrators should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
+  - Delegate administration of community groups to individuals which report directly to the Council. These delegated administrators should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
   - Grant Lubuntu Membership to individuals within the Lubuntu project who have made significant and sustained contributions.
 
-Quorum of the Lubuntu Council is defined as a majority of members casting a vote on a decision. No decision can be made on behalf of the Lubuntu Council without a quorum.
+Quorum of the Council is defined as a majority of members casting a vote on a decision. No decision can be made on behalf of the Council without a quorum.
 
-Although this is exercised with great care, the Lubuntu Council has the authority to remove people from the Lubuntu project, for clear violations of this constitution or the Ubuntu Code of Conduct that occur within the community. It is the duty of the Lubuntu Council to publicly announce removal of team members from the project, and any removal must be done only after a unanimous vote has passed.
+It is the duty of the Council to ensure the health of the community. While the Council will work to mediate problems in which a community member is acting in a way contrary to the health of the project, the Council has the authority to remove any member for violations of the Ubuntu Code of Conduct or the Lubuntu Constitution. Any removal decision made is final, and will be announced privately to Members.
 
-The current members of the Lubuntu Council can be found under the [~lubuntu-council team](https://launchpad.net/~lubuntu-admins) on Launchpad.
+The current members of the Council can be found under the [~lubuntu-council team](https://launchpad.net/~lubuntu-admins) on Launchpad.
 
-The Lubuntu Council members' terms expire yearly, and only Lubuntu Members are eligible to run for a position on the Lubuntu Council. Lubuntu Members are eligible to vote, using the [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/); the results of which are put into effect after being confirmed by the expiring Lubuntu Council.
+The Council members' terms expire yearly, and only Members are eligible to run for a position on the Council. Members are eligible to vote, using the [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/); the results of which are put into effect after being confirmed by the expiring Council.
 
 ## Lubuntu Members
 
-Lubuntu Members are official members of the Lubuntu project. In order to be a Lubuntu member, an individual must demonstrate significant and sustained contributions to the Lubuntu project, and also must be confirmed by the Lubuntu Council.
+Members are official members of the Lubuntu project. In order to be a Member, an individual must demonstrate significant and sustained contributions to the Lubuntu project, and also must be confirmed by the Council.
 
-Lubuntu Members are inherently [Ubuntu Members](https://wiki.ubuntu.com/Membership), and since the benefits of which are also granted, the same high expectations upheld for Ubuntu Members must also be upheld for Lubuntu Members.
+Members are inherently [Ubuntu Members](https://wiki.ubuntu.com/Membership) as soon as they are granted Membership, and since the benefits of which are also granted, the same high expectations upheld for Ubuntu Members must also be upheld for Members.
 
-In order for a Lubuntu Member to renew their membership, they must have contributed to the project in a notable way between the last time their membership status was updated or renewed and the expiry date. Membership in the team is valid for one year from the renewal date.
+In order for a Member to renew their membership, they must have contributed to the project in a notable way between the last time their membership status was updated or renewed and the expiry date. Membership in the team is valid for one year from the renewal date.
 
-A current list of Lubuntu Members can be found under the [~lubuntu-members team](https://launchpad.net/~lubuntu-members) on Launchpad.
+A current list of Members can be found under the [~lubuntu-members team](https://launchpad.net/~lubuntu-members) on Launchpad.
 
 ## Role of the Ubuntu Community Council
 
-The Ubuntu Community Council is the governing board of the Ubuntu project, and as Lubuntu is a sub-project of Ubuntu, the Ubuntu Community Council is a direct parent board of the Lubuntu Council. As a board they have one vote in decisions; however, any decision made by the Lubuntu Council can be overruled by the Ubuntu Community Council through a majority vote.
+The Ubuntu Community Council is the governing board of the Ubuntu project, and as Lubuntu is a sub-project of Ubuntu, the Ubuntu Community Council is a direct parent board of the Council. As a board they have the ability to override any decision made by the Council, and the Council will consult them for major decisions.
 
 ## Team Lead
 
-The Lubuntu Team Lead is a Lubuntu Council-appointed individual which serves as a representative for the Lubuntu Council when executive action is required and the Lubuntu Council cannot reach a quorum. If the Team Lead takes any action, they must inform the Lubuntu Council within seven days, and the Council has the right to overrule any decision made by the Team Lead. Intentional failure to report any decision to the Council within that time will result in re-evaluation by the Council of the Team Lead's ability to serve.
-
-This person may be a member of the Lubuntu Council, but this is not required.
+The Lubuntu Team Lead is a Council member which serves as a representative for the Council when executive action is required and the Council cannot reach a quorum. This team member is appointed directly by the Council. If the Team Lead takes any action, they must inform the Council immediately, and the Council has the right to overrule any decision made by the Team Lead. Intentional failure to report any decision to the Council within that time will result in re-evaluation by the Council of the Team Lead's ability to serve.
 
 ## Delegated Positions
 
-The following are the current administrative positions delegated by the Lubuntu Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. Should a replacement be permanent, the Lubuntu Council must be informed. These delegated administrators and assistants should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
+The following are the current administrative positions delegated by the Council. They have the ability to appoint assistants to their position which take their place in the case that they are no longer fit to fulfull their duties, either temporarily or permanently. The Council must be informed when delegates choose to appoint someone as an assistant. Both the delegates and the assistant delegates should be the clear leaders of these groups already, to keep the spirit of democratic meritocracy.
 
-It is important that none of the administrative positions have access to tools or documentation that the Council does not have. To reduce bus factor in the case that an individual has to step away suddenly, the Lubuntu Council must have the same access that the administrators to, in case they need to be replaced suddenly.
+It is important that none of the delegated administrators have access to tools or documentation that the Council does not have. To reduce bus factor in the case that an individual has to step away suddenly, the Council must have the same access that the delegates do.
 
 ### Lubuntu Release Manager
 
@@ -91,15 +81,15 @@ The Lubuntu Design Manager is the individual responsible for design and user exp
 
 ### Lubuntu Localization Manager
 
-The Lubuntu Localization Manager is the individual responsible for ensuring Lubuntu is translated into as many languages as possible, and that the translations are high-quality as well as accurate. This individual may wish to establish interest groups for specific languages if there a significant amount of people who speak that language and are interested in Lubuntu. At this time, the only localization group is the Lubuntu Spanish group.
+The Lubuntu Localization Manager is the individual responsible for ensuring Lubuntu is translated into as many languages as possible, and that the translations are high-quality as well as accurate. This individual may wish to establish interest groups for specific languages if there is a significant amount of people who speak that language and are interested in Lubuntu.
 
 ### Digital Communications Managers
 
-There is no one person who manages the social media and digital communications for Lubuntu, but interested parties who can prove prior experience with a social media or digital communications platform can be added as administrators at the Lubuntu Council's discretion.
+There is no one person who manages the social media and digital communications for Lubuntu, but interested parties who can prove prior experience with a social media or digital communications platform can be added as administrators at the Council's discretion.
 
 # Modifications to this document
 
-Modifications to this document must only be made following unanimous consensus among the Lubuntu Council. Before large changes are merged, feedback from active Lubuntu Members and the Ubuntu Community Council as well as the Lubuntu Council should be incorporated.
+Modifications to this document must only be made following unanimous consensus among the Council. Before large changes are merged, feedback from active Members and the Ubuntu Community Council as well as the Council should be incorporated.
 
 The canonical location of this document is available on [our Phabricator instance in Markdown format](https://phab.lubuntu.me/source/constitution/browse/master/Constitution.md). For accessibility purposes, a copy is also available on [GitHub](https://github.com/lubuntu-team/constitution/blob/master/Constitution.md), but this should be considered "best-effort" and the Phabricator copy should be used.
 
