@@ -35,7 +35,7 @@ Quorum of the Council is defined as a majority of members casting a vote on a de
 
 It is the duty of the Council to ensure the health of the community. While the Council will work to mediate problems in which a community member is acting in a way contrary to the health of the project, the Council has the authority to remove any member for violations of the Ubuntu Code of Conduct or the Lubuntu Constitution. Any removal decision made is final, and will be announced privately to Members.
 
-The current members of the Council can be found under the [~lubuntu-council team](https://launchpad.net/~lubuntu-admins) on Launchpad.
+The current members of the Council can be found under the [~lubuntu-council team](https://launchpad.net/~lubuntu-council) on Launchpad.
 
 The Council members' terms expire yearly, and only Members are eligible to run for a position on the Council. Members are eligible to vote, using the [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/); the results of which are put into effect after being confirmed by the expiring Council.
 
