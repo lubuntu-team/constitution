@@ -1,5 +1,3 @@
-THIS IS A DRAFT, AND IS NOT IN EFFECT.
-
 This document is the Lubuntu Constitution, which aims to define Lubuntu as a project, its community, and its governance. If something is not explicitly defined here, please refer to the [Ubuntu Code of Conduct](https://www.ubuntu.com/community/code-of-conduct), which some parts of this document were derived from. This document is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.
 
 # Definitions
